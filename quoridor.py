@@ -86,6 +86,25 @@ def partie_terminée(self):
 
         :returns: le nom du gagnant si la partie est terminée; False autrement.
         """
+        jeu = Quoridor(joueur 1, joueur 2)
+
+
+
+
+
+
+        raise QuoridorError if l'argument 'joueurs' n'est pas itérable.
+        raise QuoridorError if l'itérable de joueurs en contient un nombre différent de deux.
+        raise QuoridorError if le nombre de murs qu'un joueur peut placer est >10, ou négatif.
+        raise QuoridorError if la position d'un joueur est invalide.
+        raise QuoridorError if l'argument 'murs' n'est pas un dictionnaire lorsque présent.
+        raise QuoridorError if le total des murs placés et plaçables n'est pas égal à 20.
+        raise QuoridorError if la position d'un mur est invalide.
+
+
+
+
+
 
 
 import networkx as nx
