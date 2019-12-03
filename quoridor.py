@@ -1,6 +1,6 @@
 class Quoridor:
     def __init__(self, joueurs, murs=None):
-        jeu = Quoridor(["joueur 1", "joueur 2")
+        jeu = Quoridor(joueur 1, joueur 2)
 
 
 
